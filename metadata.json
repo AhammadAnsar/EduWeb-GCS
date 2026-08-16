@@ -1,0 +1,6 @@
+{
+  "name": "SoftDows EduWeb GCS - School Management & CMS",
+  "description": "Zero-Cost School Management Website & CMS for Bangladeshi Educational Institutions (Schools, Colleges, Madrasas) compliant with Ministry standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
